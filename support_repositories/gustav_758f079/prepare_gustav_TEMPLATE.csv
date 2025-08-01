@@ -1,0 +1,7 @@
+﻿key,value
+input_main,/Users/tstoeger/Dropbox/prepare_gustav/input
+input_big,/Volumes/seagate_extension_4g/ACTIVE_gustav_big_data/input
+intermediate_main,/Users/tstoeger/Dropbox/prepare_gustav/intermediate
+intermediate_big,/Volumes/seagate_extension_4g/ACTIVE_gustav_big_data/intermediate
+output_main,/Users/tstoeger/Dropbox/prepare_gustav/output
+output_big,/Volumes/seagate_extension_4g/ACTIVE_gustav_big_data/output

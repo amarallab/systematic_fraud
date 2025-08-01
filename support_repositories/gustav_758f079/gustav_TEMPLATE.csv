@@ -1,0 +1,4 @@
+﻿key,value,comment
+input_main,/Users/tstoeger/Dropbox/prepare_gustav/output,the standard location of data cleaned and harmonized data; can be stored on individual computers
+input_big,/Volumes/seagate_extension_4g/ACTIVE_gustav_big_data/output,"only applicable to special datasets, which might be too big for individual computers"
+code,/Users/tstoeger/Projects/prepare_gustav,needed to robustly set different data environments
