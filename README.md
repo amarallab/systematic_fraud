@@ -74,5 +74,5 @@ Uses some data generated with: process_plos.ipynb
 
 Figures F1E and S1 were generated and checked manually. Reproducing them requires knowledge of the identities of flagged authors and editors, which we did not want to declare publicly in our manuscript or code. The publicly-available [#allofplos dataset](https://plos.org/text-and-data-mining/) can be processed with process_allofplos.ipynb.
 
-Code for reproducing F4 and S17 is available at [github.com/amarallab/Science_fraud_topic_analysis](https://doi.org/github.com/amarallab/Science_fraud_topic_analysis).
+Code for reproducing F4 and S17 is available at [github.com/amarallab/Science_fraud_topic_analysis](https://github.com/amarallab/Science_fraud_topic_analysis).
 
